@@ -1,0 +1,3 @@
+out of main folder #foldername
+-->export FLASK_APP=foldername
+-->flask run
